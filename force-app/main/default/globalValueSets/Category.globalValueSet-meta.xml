@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Business Expenses</fullName>
+        <default>false</default>
+        <label>Business Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Education</fullName>
+        <default>false</default>
+        <label>Education</label>
+    </customValue>
+    <customValue>
+        <fullName>Gifts and Donations</fullName>
+        <default>false</default>
+        <label>Gifts and Donations</label>
+    </customValue>
+    <customValue>
+        <fullName>Healthcare</fullName>
+        <default>false</default>
+        <label>Healthcare</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Expenses</fullName>
+        <default>false</default>
+        <label>Home Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Meals and Entertainment</fullName>
+        <default>false</default>
+        <label>Meals and Entertainment</label>
+    </customValue>
+    <customValue>
+        <fullName>Miscellaneous</fullName>
+        <default>false</default>
+        <label>Miscellaneous</label>
+    </customValue>
+    <customValue>
+        <fullName>Office Supplies</fullName>
+        <default>false</default>
+        <label>Office Supplies</label>
+    </customValue>
+    <customValue>
+        <fullName>Personal Care</fullName>
+        <default>false</default>
+        <label>Personal Care</label>
+    </customValue>
+    <customValue>
+        <fullName>Transportation</fullName>
+        <default>false</default>
+        <label>Transportation</label>
+    </customValue>
+    <customValue>
+        <fullName>Travel</fullName>
+        <default>false</default>
+        <label>Travel</label>
+    </customValue>
+    <customValue>
+        <fullName>Utilities</fullName>
+        <default>false</default>
+        <label>Utilities</label>
+    </customValue>
+    <masterLabel>Category</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
