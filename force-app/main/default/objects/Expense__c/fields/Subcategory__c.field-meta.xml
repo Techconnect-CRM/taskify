@@ -8,7 +8,228 @@
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
+        <controllingField>Category__c</controllingField>
         <restricted>true</restricted>
         <valueSetName>Subcategory</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>Travel</controllingFieldValue>
+            <valueName>Airfare</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Travel</controllingFieldValue>
+            <valueName>Train or Bus Tickets</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Travel</controllingFieldValue>
+            <valueName>Car Rental</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Travel</controllingFieldValue>
+            <valueName>Accommodation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Travel</controllingFieldValue>
+            <valueName>Other Travel Expenses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Expenses</controllingFieldValue>
+            <valueName>Business Travel</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Expenses</controllingFieldValue>
+            <valueName>Advertising and Marketing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Expenses</controllingFieldValue>
+            <valueName>Office Rent</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Expenses</controllingFieldValue>
+            <valueName>Professional Fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Business Expenses</controllingFieldValue>
+            <valueName>Business Meals</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Utilities</controllingFieldValue>
+            <valueName>Internet</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Utilities</controllingFieldValue>
+            <valueName>Phone</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Utilities</controllingFieldValue>
+            <valueName>Electricity</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Utilities</controllingFieldValue>
+            <valueName>Water</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Utilities</controllingFieldValue>
+            <valueName>Other Utilities</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Education</controllingFieldValue>
+            <valueName>Tuition</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Education</controllingFieldValue>
+            <valueName>Books and Supplies</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Education</controllingFieldValue>
+            <valueName>Course Fees</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Education</controllingFieldValue>
+            <valueName>Educational Materials</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gifts and Donations</controllingFieldValue>
+            <valueName>Gifts</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gifts and Donations</controllingFieldValue>
+            <valueName>Charitable Donations</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gifts and Donations</controllingFieldValue>
+            <valueName>Fundraisers</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Healthcare</controllingFieldValue>
+            <valueName>Medical Bills</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Healthcare</controllingFieldValue>
+            <valueName>Health Insurance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Healthcare</controllingFieldValue>
+            <valueName>Medications</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Healthcare</controllingFieldValue>
+            <valueName>Doctor&apos;s Visits</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Healthcare</controllingFieldValue>
+            <valueName>Dental Expenses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home Expenses</controllingFieldValue>
+            <valueName>Mortgage or Rent</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home Expenses</controllingFieldValue>
+            <valueName>Home Insurance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home Expenses</controllingFieldValue>
+            <valueName>Property Taxes</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home Expenses</controllingFieldValue>
+            <valueName>Repairs and Maintenance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Home Expenses</controllingFieldValue>
+            <valueName>Furniture and Decor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Meals and Entertainment</controllingFieldValue>
+            <valueName>Restaurants</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Meals and Entertainment</controllingFieldValue>
+            <valueName>Coffee and Snacks</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Meals and Entertainment</controllingFieldValue>
+            <valueName>Client Dinners</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Meals and Entertainment</controllingFieldValue>
+            <valueName>Entertainment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Meals and Entertainment</controllingFieldValue>
+            <valueName>Other Meal and Entertainment Expenses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Miscellaneous</controllingFieldValue>
+            <valueName>Miscellaneous or Unplanned Expenses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Miscellaneous</controllingFieldValue>
+            <valueName>Emergency Expenses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Miscellaneous</controllingFieldValue>
+            <valueName>Unforeseen Costs</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Miscellaneous</controllingFieldValue>
+            <valueName>Other</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Office Supplies</controllingFieldValue>
+            <valueName>Stationery</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Office Supplies</controllingFieldValue>
+            <valueName>Office Equipment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Office Supplies</controllingFieldValue>
+            <valueName>Software Licenses</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Office Supplies</controllingFieldValue>
+            <valueName>Furniture</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Office Supplies</controllingFieldValue>
+            <valueName>Other Office Supplies</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Personal Care</controllingFieldValue>
+            <valueName>Gym Membership</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Personal Care</controllingFieldValue>
+            <valueName>Personal Care Products</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Personal Care</controllingFieldValue>
+            <valueName>Spa or Salon</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Personal Care</controllingFieldValue>
+            <valueName>Clothing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Personal Care</controllingFieldValue>
+            <valueName>Personal Care Services</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Transportation</controllingFieldValue>
+            <valueName>Public Transportation</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Transportation</controllingFieldValue>
+            <valueName>Fuel and Maintenance</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Transportation</controllingFieldValue>
+            <valueName>Vehicle Lease or Loan Payments</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Transportation</controllingFieldValue>
+            <valueName>Other Transportation Expenses</valueName>
+        </valueSettings>
     </valueSet>
 </CustomField>
