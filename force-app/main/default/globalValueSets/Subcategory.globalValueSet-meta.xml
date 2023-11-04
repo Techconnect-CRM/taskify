@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Airfare</fullName>
+        <default>false</default>
+        <label>Airfare</label>
+    </customValue>
+    <customValue>
+        <fullName>Train or Bus Tickets</fullName>
+        <default>false</default>
+        <label>Train or Bus Tickets</label>
+    </customValue>
+    <customValue>
+        <fullName>Car Rental</fullName>
+        <default>false</default>
+        <label>Car Rental</label>
+    </customValue>
+    <customValue>
+        <fullName>Accommodation</fullName>
+        <default>false</default>
+        <label>Accommodation</label>
+    </customValue>
+    <customValue>
+        <fullName>Other Travel Expenses</fullName>
+        <default>false</default>
+        <label>Other Travel Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Restaurants</fullName>
+        <default>false</default>
+        <label>Restaurants</label>
+    </customValue>
+    <customValue>
+        <fullName>Coffee and Snacks</fullName>
+        <default>false</default>
+        <label>Coffee and Snacks</label>
+    </customValue>
+    <customValue>
+        <fullName>Client Dinners</fullName>
+        <default>false</default>
+        <label>Client Dinners</label>
+    </customValue>
+    <customValue>
+        <fullName>Entertainment</fullName>
+        <default>false</default>
+        <label>Entertainment</label>
+    </customValue>
+    <customValue>
+        <fullName>Other Meal and Entertainment Expenses</fullName>
+        <default>false</default>
+        <label>Other Meal and Entertainment Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Stationery</fullName>
+        <default>false</default>
+        <label>Stationery</label>
+    </customValue>
+    <customValue>
+        <fullName>Office Equipment</fullName>
+        <default>false</default>
+        <label>Office Equipment</label>
+    </customValue>
+    <customValue>
+        <fullName>Software Licenses</fullName>
+        <default>false</default>
+        <label>Software Licenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Furniture</fullName>
+        <default>false</default>
+        <label>Furniture</label>
+    </customValue>
+    <customValue>
+        <fullName>Other Office Supplies</fullName>
+        <default>false</default>
+        <label>Other Office Supplies</label>
+    </customValue>
+    <customValue>
+        <fullName>Internet</fullName>
+        <default>false</default>
+        <label>Internet</label>
+    </customValue>
+    <customValue>
+        <fullName>Phone</fullName>
+        <default>false</default>
+        <label>Phone</label>
+    </customValue>
+    <customValue>
+        <fullName>Electricity</fullName>
+        <default>false</default>
+        <label>Electricity</label>
+    </customValue>
+    <customValue>
+        <fullName>Water</fullName>
+        <default>false</default>
+        <label>Water</label>
+    </customValue>
+    <customValue>
+        <fullName>Other Utilities</fullName>
+        <default>false</default>
+        <label>Other Utilities</label>
+    </customValue>
+    <customValue>
+        <fullName>Public Transportation</fullName>
+        <default>false</default>
+        <label>Public Transportation</label>
+    </customValue>
+    <customValue>
+        <fullName>Fuel and Maintenance</fullName>
+        <default>false</default>
+        <label>Fuel and Maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Vehicle Lease or Loan Payments</fullName>
+        <default>false</default>
+        <label>Vehicle Lease or Loan Payments</label>
+    </customValue>
+    <customValue>
+        <fullName>Other Transportation Expenses</fullName>
+        <default>false</default>
+        <label>Other Transportation Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Miscellaneous or Unplanned Expenses</fullName>
+        <default>false</default>
+        <label>Miscellaneous or Unplanned Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Emergency Expenses</fullName>
+        <default>false</default>
+        <label>Emergency Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Unforeseen Costs</fullName>
+        <default>false</default>
+        <label>Unforeseen Costs</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <customValue>
+        <fullName>Medical Bills</fullName>
+        <default>false</default>
+        <label>Medical Bills</label>
+    </customValue>
+    <customValue>
+        <fullName>Health Insurance</fullName>
+        <default>false</default>
+        <label>Health Insurance</label>
+    </customValue>
+    <customValue>
+        <fullName>Medications</fullName>
+        <default>false</default>
+        <label>Medications</label>
+    </customValue>
+    <customValue>
+        <fullName>Doctor&apos;s Visits</fullName>
+        <default>false</default>
+        <label>Doctor&apos;s Visits</label>
+    </customValue>
+    <customValue>
+        <fullName>Dental Expenses</fullName>
+        <default>false</default>
+        <label>Dental Expenses</label>
+    </customValue>
+    <customValue>
+        <fullName>Tuition</fullName>
+        <default>false</default>
+        <label>Tuition</label>
+    </customValue>
+    <customValue>
+        <fullName>Books and Supplies</fullName>
+        <default>false</default>
+        <label>Books and Supplies</label>
+    </customValue>
+    <customValue>
+        <fullName>Course Fees</fullName>
+        <default>false</default>
+        <label>Course Fees</label>
+    </customValue>
+    <customValue>
+        <fullName>Educational Materials</fullName>
+        <default>false</default>
+        <label>Educational Materials</label>
+    </customValue>
+    <customValue>
+        <fullName>Gifts</fullName>
+        <default>false</default>
+        <label>Gifts</label>
+    </customValue>
+    <customValue>
+        <fullName>Charitable Donations</fullName>
+        <default>false</default>
+        <label>Charitable Donations</label>
+    </customValue>
+    <customValue>
+        <fullName>Fundraisers</fullName>
+        <default>false</default>
+        <label>Fundraisers</label>
+    </customValue>
+    <customValue>
+        <fullName>Mortgage or Rent</fullName>
+        <default>false</default>
+        <label>Mortgage or Rent</label>
+    </customValue>
+    <customValue>
+        <fullName>Home Insurance</fullName>
+        <default>false</default>
+        <label>Home Insurance</label>
+    </customValue>
+    <customValue>
+        <fullName>Property Taxes</fullName>
+        <default>false</default>
+        <label>Property Taxes</label>
+    </customValue>
+    <customValue>
+        <fullName>Repairs and Maintenance</fullName>
+        <default>false</default>
+        <label>Repairs and Maintenance</label>
+    </customValue>
+    <customValue>
+        <fullName>Furniture and Decor</fullName>
+        <default>false</default>
+        <label>Furniture and Decor</label>
+    </customValue>
+    <customValue>
+        <fullName>Business Travel</fullName>
+        <default>false</default>
+        <label>Business Travel</label>
+    </customValue>
+    <customValue>
+        <fullName>Advertising and Marketing</fullName>
+        <default>false</default>
+        <label>Advertising and Marketing</label>
+    </customValue>
+    <customValue>
+        <fullName>Office Rent</fullName>
+        <default>false</default>
+        <label>Office Rent</label>
+    </customValue>
+    <customValue>
+        <fullName>Professional Fees</fullName>
+        <default>false</default>
+        <label>Professional Fees</label>
+    </customValue>
+    <customValue>
+        <fullName>Business Meals</fullName>
+        <default>false</default>
+        <label>Business Meals</label>
+    </customValue>
+    <customValue>
+        <fullName>Gym Membership</fullName>
+        <default>false</default>
+        <label>Gym Membership</label>
+    </customValue>
+    <customValue>
+        <fullName>Personal Care Products</fullName>
+        <default>false</default>
+        <label>Personal Care Products</label>
+    </customValue>
+    <customValue>
+        <fullName>Spa or Salon</fullName>
+        <default>false</default>
+        <label>Spa or Salon</label>
+    </customValue>
+    <customValue>
+        <fullName>Clothing</fullName>
+        <default>false</default>
+        <label>Clothing</label>
+    </customValue>
+    <customValue>
+        <fullName>Personal Care Services</fullName>
+        <default>false</default>
+        <label>Personal Care Services</label>
+    </customValue>
+    <masterLabel>Subcategory</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
